@@ -36,7 +36,7 @@ Customer service efficiency is critical in e-commerce, where rising complaints c
 
 ## 🧰 Tools & Libraries Used
 
-- **Python (Jupyter Notebook)**  
+- **Python (Google Colab Notebook)**  
 - **Pandas** – Data wrangling  
 - **Matplotlib & Seaborn** – Visualizations  
 - **Pareto Analysis** logic  
