@@ -1,6 +1,8 @@
 # ComplaintIQ: Pareto-Driven Customer Service Optimization
 A data-driven Pareto analysis project focused on identifying key complaint drivers and optimizing customer service efforts using Python and advanced visualization techniques.
 
+Presentation Deck: https://www.canva.com/design/DAGtbxHsSKc/gkx30-fv9qT2O6X4BZ9J6A/view?utm_content=DAGtbxHsSKc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8db575e865
+
 ---
 
 ## 🎯 Project Overview
